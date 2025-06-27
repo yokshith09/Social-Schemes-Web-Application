@@ -13,12 +13,7 @@ This project is a web application designed to provide comprehensive and user-fri
 💡 Simple and intuitive user interface for ease of navigation
 
 🚀 Tech Stack
-Frontend: HTML, CSS, JavaScript (or React if used)
-
-Backend: Python / Node.js / Flask (as applicable)
-
-Database: MySQL / MongoDB (if applicable)
-
+Frontend: HTML, CSS, JavaScript .
 💼 Use Case
 This platform is particularly useful for:
 
